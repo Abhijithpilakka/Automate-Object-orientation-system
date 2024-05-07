@@ -17,7 +17,4 @@ The Automated Object Orientation System is a project aimed at automating the ori
   - 1 DC motor
 - Arduino microcontroller
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your_username/automated-object-orientation.git
+
