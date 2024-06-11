@@ -1,6 +1,6 @@
 # Automate-Object-orientation-system
 
-
+<img src="roboticarm.jpg" width="100" height="100">
 ![Project Image](roboticarm.jpg)
 
 ## Overview
