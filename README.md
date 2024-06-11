@@ -1,7 +1,7 @@
 # Automate-Object-orientation-system
 
-<img src="roboticarm.jpg" width="100" height="100">
-![Project Image](roboticarm.jpg)
+<img src="roboticarm.jpg" width="800">
+
 
 ## Overview
 The Automated Object Orientation System is a project aimed at automating the orientation of objects on a conveyor belt using computer vision and robotic manipulation techniques. The system detects objects, classifies their orientation, and commands a robotic arm to correct any misalignment, ensuring smooth industrial processes.
