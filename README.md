@@ -17,4 +17,4 @@ The Automated Object Orientation System is a project aimed at automating the ori
   - 1 DC motor
 - Arduino microcontroller
 
-
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY)](https://youtu.be/JTL1Yqv7Y7w)
